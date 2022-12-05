@@ -17,18 +17,5 @@
 <a href="https://github.com/ZhupelL" class="button_1669948195175" target="_blank">
   Аккаунт богов
 </a> 
-```flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!```
+```flowchart TD
+    Start --> Stop```
