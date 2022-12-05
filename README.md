@@ -17,7 +17,7 @@
 <a href="https://github.com/ZhupelL" class="button_1669948195175" target="_blank">
   Аккаунт богов
 </a> 
-~~~flowchart LR
+```flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
@@ -31,4 +31,4 @@ end
 Note right of John: Rational thoughts!
 John-->>Alice: Great!
 John->>Bob: How about you?
-Bob-->>John: Jolly good!~~~
+Bob-->>John: Jolly good!```
