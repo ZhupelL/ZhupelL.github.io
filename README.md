@@ -17,5 +17,11 @@
 <a href="https://github.com/ZhupelL" class="button_1669948195175" target="_blank">
   Аккаунт богов
 </a> 
-```flowchart LR
-    id1[(Database)]```
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
